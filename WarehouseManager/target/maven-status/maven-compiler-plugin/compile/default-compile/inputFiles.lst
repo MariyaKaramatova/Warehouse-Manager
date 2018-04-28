@@ -1,0 +1,13 @@
+D:\Warehouse\WarehouseManager\src\main\java\model\Commodity.java
+D:\Warehouse\WarehouseManager\src\main\java\warehouse\dao\CommoditiesDAO.java
+D:\Warehouse\WarehouseManager\src\main\java\exceptions\CommodityNotFoundException.java
+D:\Warehouse\WarehouseManager\src\main\java\model\Moving.java
+D:\Warehouse\WarehouseManager\src\main\java\warehouse\dao\MovingsDAO.java
+D:\Warehouse\WarehouseManager\src\main\java\warehouse\dao\ReferencesDAO.java
+D:\Warehouse\WarehouseManager\src\main\java\exceptions\NotEnoughCommoditiesException.java
+D:\Warehouse\WarehouseManager\src\main\java\model\Type.java
+D:\Warehouse\WarehouseManager\src\main\java\controller\WarehouseController.java
+D:\Warehouse\WarehouseManager\src\main\java\warehouse\dao\AbstractDAO.java
+D:\Warehouse\WarehouseManager\src\main\java\exceptions\NotEnoughSpaceException.java
+D:\Warehouse\WarehouseManager\src\main\java\warehouse\dao\LotsDAO.java
+D:\Warehouse\WarehouseManager\src\main\java\model\Lot.java

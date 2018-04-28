@@ -1,0 +1,13 @@
+warehouse\dao\LotsDAO.class
+controller\WarehouseController.class
+warehouse\dao\MovingsDAO.class
+warehouse\dao\AbstractDAO.class
+warehouse\dao\ReferencesDAO.class
+model\Commodity.class
+model\Moving.class
+exceptions\NotEnoughCommoditiesException.class
+warehouse\dao\CommoditiesDAO.class
+exceptions\CommodityNotFoundException.class
+model\Lot.class
+model\Type.class
+exceptions\NotEnoughSpaceException.class
